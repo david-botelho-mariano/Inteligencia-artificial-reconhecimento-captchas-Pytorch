@@ -3,7 +3,7 @@ Esse script utiliza da framework pytorch para fazer reconhecimento de captchas. 
 
 # Tutorial de uso:
 
-Primeiro passo) Baixar o model de machine learning treinado para reconhecer imagens de fones de ouvido através do link: https://filosofiahacker.files.wordpress.com/2020/04/model-fones.key
+Primeiro passo) Baixar o model de machine learning treinado para fazer o reconhecimento das imagens através do link: https://filosofiahacker.files.wordpress.com/2020/04/model-fones.key
 
 Segundo passo) Mover o arquivo baixado (model-fones.key) para dentro da pasta desse projeto.
 
