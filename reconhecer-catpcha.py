@@ -1,7 +1,6 @@
 import torch
 from torchvision import datasets, models, transforms
 import shutil
-from IPython.display import display
 import os
 
 def ler_diretorio_imagens(path_captchas):
