@@ -54,7 +54,7 @@ def imshow(inp, title=None):
     plt.pause(0.001)
 
 device = torch.device("cpu")
-model_treinado = torch.load('model-fones.pth', map_location='cpu')
+model_treinado = torch.load('model-fones.key', map_location='cpu')
 
 print("[INFO] inteligencia artificial treinada apenas para encontrar fone de ouvido em uma imagem")
 comecar_reconhecimento(model_treinado)
