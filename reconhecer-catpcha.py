@@ -56,7 +56,7 @@ if __name__ == '__main__':
     
     device = torch.device("cpu")
     model_treinado = torch.load('model-fones.key', map_location='cpu')
-    lista_captchas_absolute_path = ler_diretorios_e_subdiretorios("captchas")
+    lista_captchas_absolute_path = ler_diretorios_e_subdiretorios("dataset-captchas")
 
     for captcha_path in lista_captchas_absolute_path:
       comecar_reconhecimento(captcha_path, model_treinado)
