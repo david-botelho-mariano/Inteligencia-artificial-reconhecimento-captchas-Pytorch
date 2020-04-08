@@ -9,5 +9,7 @@ Segundo passo) Mover o arquivo baixado (model-fones.key) para dentro da pasta de
 
 Terceiro passo) Executar o script "reconhecer-catpcha.py".
 
+# Demonstração:
+
 ![executando-programa-imagem](https://i.imgur.com/BQ1nlrn.png)
 
