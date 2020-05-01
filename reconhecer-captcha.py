@@ -44,4 +44,4 @@ if __name__ == '__main__':
 
   imagem_classe = ['fone de ouvido', 'outros']
 
-  ler_diretorio_subdiretorio("dataset-captchas/")
+  ler_diretorio_subdiretorio("captchas-nunca-vistos/")
