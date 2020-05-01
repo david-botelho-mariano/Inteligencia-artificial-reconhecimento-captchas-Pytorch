@@ -7,7 +7,7 @@ Primeiro passo) Baixar o model de machine learning treinado para fazer o reconhe
 
 Segundo passo) Mover o arquivo baixado (model-fones.key) para dentro da pasta desse projeto.
 
-Terceiro passo) Executar o script "reconhecer-catpcha.py".
+Terceiro passo) Executar o script "reconhecer-captcha.py".
 
 # Demonstração:
 
